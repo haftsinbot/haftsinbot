@@ -3,6 +3,7 @@ _“English and French versions of these Terms of Use are available below. Pleas
 
 - **Français :**  
 **La version anglaise et française de ces conditions d'utilisation se trouve ci-dessous. Veuillez faire défiler vers le bas pour les consulter.**
+
 **شرایط و ضوابط استفاده از ربات تلگرام “هفت‌سین‌بات”** 
 
 - با استفاده از این ربات، شما تأیید می‌کنید که این شرایط را به‌طور کامل خوانده‌ و با آن‌ها موافقت نموده‌اید. اگر با هر بخشی از این شرایط مخالف هستید، لطفاً از خدمات ربات استفاده نکنید.
