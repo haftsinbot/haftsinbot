@@ -1,3 +1,8 @@
+- **English:**  
+_“English and French versions of these Terms of Use are available below. Please scroll down to view them.”_
+
+- **Français :**  
+**La version anglaise et française de ces conditions d'utilisation se trouve ci-dessous. Veuillez faire défiler vers le bas pour les consulter.**
 **شرایط و ضوابط استفاده از ربات تلگرام “هفت‌سین‌بات”** 
 
 - با استفاده از این ربات، شما تأیید می‌کنید که این شرایط را به‌طور کامل خوانده‌ و با آن‌ها موافقت نموده‌اید. اگر با هر بخشی از این شرایط مخالف هستید، لطفاً از خدمات ربات استفاده نکنید.
@@ -54,7 +59,7 @@ By agreeing to these terms and continuing to use the bot, you confirm that you h
 
 ---
 
-### **🇫🇷 Version Française**
+  ### **🇫🇷 Version Française**
 
 **Conditions d'utilisation du bot Telegram « Haftsin Bot »**
 
